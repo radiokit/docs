@@ -7,6 +7,8 @@ Broadcasting
 ^^^^^^^^^^^^
 
 * `Electron <https://docs-electron.radiokit.org>`_ (Audio over IP)
+* `Horn <https://docs-horn.radiokit.org>`_ (Cloud broadcasting / Automation)
+* `Depot <https://docs-depot.radiokit.org>`_ (Radio specific "dropbox")
 
 
 Programming
