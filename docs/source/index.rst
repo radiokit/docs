@@ -15,6 +15,7 @@ Programming
 ^^^^^^^^^^^
 
 * `Engine <https://docs-engine.radiokit.org>`_ (PaaS API)
+* `JS Toolkit <https://docs-toolkit-js.radiokit.org>`_ (JavaScript API)
 
 
 See also
